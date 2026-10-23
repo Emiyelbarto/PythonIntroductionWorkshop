@@ -1,4 +1,4 @@
-# Scripting Workshop — Hack&Beer
+# Scripting Workshop
 
 From zero to hero en python y burpsuite!
 
@@ -13,6 +13,8 @@ El recorrido de cada lab es siempre el mismo:
 3. Traduces la request de Repeater a Python y automatizas el ataque completo.
 
 ## Requisitos
+
+Ojo, usamos `docker compose`, no docker, así que fijense en eso.
 
 | Herramienta | Version minima | Como comprobar |
 |-------------|----------------|----------------|
